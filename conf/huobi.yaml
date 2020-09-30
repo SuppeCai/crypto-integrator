@@ -1,0 +1,58 @@
+sub:
+  name: market.$symbol.kline.$period
+  symbol:
+    - btcusdt
+    - bchusdt
+    - ethusdt
+    - xrpusdt
+    - eosusdt
+    - etcusdt
+    - adausdt
+    - ltcusdt
+    - xmrusdt
+    - trxusdt
+    - neousdt
+    - dashusdt
+    - omgusdt
+    - zilusdt
+    - htusdt
+    - zecusdt
+    - iotausdt
+    - ontusdt
+    - xlmusdt
+    - qtumusdt
+    - ethbtc
+    - xrpbtc
+    - eosbtc
+    - adabtc
+    - ltcbtc
+    - trxbtc
+    - neobtc
+    - dashbtc
+    - omgbtc
+    - zilbtc
+    - htbtc
+    - zecbtc
+    - iotabtc
+    - xmrbtc
+    - icxbtc
+    - lskbtc
+    - ontbtc
+    - zrxbtc
+    - xvgbtc
+    - xlmbtc
+    - nanobtc
+    - nanousdt
+    - bsvusdt
+  period:
+    - 15min
+    - 30min
+    - 60min
+    - 1day
+    - 1week
+  extra_period:
+    1hour:
+     - 2hour
+     - 4hour
+     - 6hour
+     - 12hour
